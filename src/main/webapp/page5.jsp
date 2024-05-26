@@ -7,10 +7,11 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-<head>
-    <title>Title</title>
-</head>
-<body>
-
+    <head>
+        <title>Page 5</title>
+    </head>
+        <body>
+        <h1>Ceci est la page 5</h1>
+    <a href="index.jsp">Retour à la page principale</a>
 </body>
 </html>
