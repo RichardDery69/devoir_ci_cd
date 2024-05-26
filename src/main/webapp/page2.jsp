@@ -7,12 +7,12 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" %>
 <html>
-<head>
-    <title>Page 2</title>
-</head>
-<body>
-<h1>Ceci est la page 2</h1>
-<a href="index.jsp">Retour à la page principale</a>
-</body>
+    <head>
+        <title>Page 2</title>
+    </head>
+    <body>
+        <h1>Ceci est la page 2</h1>
+        <a href="index.jsp">Retour à la page principale</a>
+    </body>
 </html>
 
